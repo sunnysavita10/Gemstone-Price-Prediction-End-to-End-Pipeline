@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/da5df2dbfc5749cba2b1593cccd9af97/artifacts
+end_time: 1705058477566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da5df2dbfc5749cba2b1593cccd9af97
+run_name: nebulous-doe-29
+run_uuid: da5df2dbfc5749cba2b1593cccd9af97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705058477541
+status: 4
+tags: []
+user_id: abc

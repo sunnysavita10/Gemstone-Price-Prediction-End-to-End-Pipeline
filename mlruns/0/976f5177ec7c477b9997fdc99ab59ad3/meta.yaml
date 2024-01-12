@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/976f5177ec7c477b9997fdc99ab59ad3/artifacts
+end_time: 1705058664571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 976f5177ec7c477b9997fdc99ab59ad3
+run_name: upbeat-yak-509
+run_uuid: 976f5177ec7c477b9997fdc99ab59ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705058664555
+status: 4
+tags: []
+user_id: abc

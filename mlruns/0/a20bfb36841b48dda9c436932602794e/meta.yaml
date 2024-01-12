@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/a20bfb36841b48dda9c436932602794e/artifacts
+end_time: 1705058574011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a20bfb36841b48dda9c436932602794e
+run_name: adventurous-loon-144
+run_uuid: a20bfb36841b48dda9c436932602794e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705058573986
+status: 4
+tags: []
+user_id: abc
