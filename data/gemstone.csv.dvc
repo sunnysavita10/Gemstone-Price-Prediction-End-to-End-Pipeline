@@ -1,0 +1,5 @@
+outs:
+- md5: 14ddfc56c931255ee10d3859d0ac4fc0
+  size: 10462804
+  hash: md5
+  path: gemstone.csv
